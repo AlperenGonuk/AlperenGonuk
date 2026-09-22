@@ -24,3 +24,7 @@ I build local-first tools and I care a lot about one thing in AI-assisted develo
 ### 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/alperen-g%C3%B6n%C3%BCk-1002862a1/). Open to junior backend roles (on-site, hybrid or remote).
+
+### ⚡ AI-assisted development
+
+<img width="100%" src="https://raw.githubusercontent.com/AlperenGonuk/AlperenGonuk/main/cards/ai-usage-combo.svg" alt="AI coding usage card" />
