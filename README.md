@@ -8,7 +8,6 @@ I build local-first tools and I care a lot about one thing in AI-assisted develo
 
 - **[Job Application System](https://github.com/AlperenGonuk/job-application-system)**: a privacy-first desktop app that collects job listings, tracks CV versions and reviews each listing with the AI agent you already use (Claude Code, Codex, Hermes, Antigravity). Your data stays on your machine, and every application decision stays with you. `Python` `Tkinter` · 49 tests · MIT
 - **ChakraNode** *(private)*: an end-to-end web app deployed on Vercel. `Next.js` `NestJS` `PostgreSQL` `Prisma` `Firebase` `Azure OpenAI` · 171 tests
-- **WritePoint** *(in development)*: an open-source 2D technical drawing (CAD) application for the desktop. `C#` `.NET` `Avalonia`
 
 ### 💼 Experience
 
@@ -19,7 +18,7 @@ I build local-first tools and I care a lot about one thing in AI-assisted develo
 
 **Backend:** Python · TypeScript / NestJS · SQL (PostgreSQL, MySQL) · Prisma · SQLAlchemy
 
-**Also:** Next.js · Flutter / Dart · C# / .NET · pandas / NumPy · Git
+**Also:** Next.js · Flutter / Dart · pandas / NumPy · Git
 
 ### 📫 Contact
 
