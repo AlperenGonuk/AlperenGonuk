@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "alperen-pc",
-  "updatedAt": "2026-11-02T20:00:45.744Z",
+  "updatedAt": "2026-11-04T20:01:02.570Z",
   "totals": {
-    "totalTokens": 3414187178,
-    "inputTokens": 46299370,
-    "outputTokens": 16361777,
-    "cacheCreationTokens": 66604566,
-    "cacheReadTokens": 3282227115,
-    "totalCost": 1599.4138677049996
+    "totalTokens": 3630670065,
+    "inputTokens": 47390779,
+    "outputTokens": 18020203,
+    "cacheCreationTokens": 74432908,
+    "cacheReadTokens": 3487803779,
+    "totalCost": 1687.5327417095996
   },
   "daily": [
     {
@@ -3890,12 +3890,12 @@
     },
     {
       "period": "2026-10-30",
-      "totalTokens": 53862804,
-      "inputTokens": 695,
-      "outputTokens": 189020,
-      "cacheCreationTokens": 2348840,
-      "cacheReadTokens": 51324249,
-      "totalCost": 23.4442338,
+      "totalTokens": 54692137,
+      "inputTokens": 707,
+      "outputTokens": 190847,
+      "cacheCreationTokens": 2763121,
+      "cacheReadTokens": 51737462,
+      "totalCost": 23.7569877,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5-5",
@@ -3909,12 +3909,12 @@
         },
         {
           "modelName": "claude-sonnet-5-5",
-          "cost": 6.187567799999999,
+          "cost": 6.5003217,
           "totalTokens": 0,
-          "inputTokens": 250,
-          "outputTokens": 64521,
-          "cacheCreationTokens": 1590692,
-          "cacheReadTokens": 7825639,
+          "inputTokens": 262,
+          "outputTokens": 66348,
+          "cacheCreationTokens": 2004973,
+          "cacheReadTokens": 8238852,
           "totalCost": 0
         }
       ]
@@ -3998,6 +3998,117 @@
           "outputTokens": 90569,
           "cacheCreationTokens": 920577,
           "cacheReadTokens": 1944061,
+          "totalCost": 0
+        }
+      ]
+    },
+    {
+      "period": "2026-11-04",
+      "totalTokens": 215653554,
+      "inputTokens": 1091397,
+      "outputTokens": 1656599,
+      "cacheCreationTokens": 7414061,
+      "cacheReadTokens": 205163451,
+      "totalCost": 87.80612010459988,
+      "modelBreakdowns": [
+        {
+          "modelName": "claude-opus-5-5",
+          "cost": 57.12872640000001,
+          "totalTokens": 0,
+          "inputTokens": 1530,
+          "outputTokens": 591409,
+          "cacheCreationTokens": 2616791,
+          "cacheReadTokens": 129397197,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-sonnet-5-5",
+          "cost": 27.22513580000001,
+          "totalTokens": 0,
+          "inputTokens": 1196,
+          "outputTokens": 917312,
+          "cacheCreationTokens": 4697949,
+          "cacheReadTokens": 63047513,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-opus-4-6",
+          "cost": 2.4401455,
+          "totalTokens": 0,
+          "inputTokens": 114350,
+          "outputTokens": 70288,
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 222391,
+          "totalCost": 0
+        },
+        {
+          "modelName": "deepseek-v4.1-flash-free",
+          "cost": 0.8231791699999998,
+          "totalTokens": 0,
+          "inputTokens": 836834,
+          "outputTokens": 52456,
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 11464704,
+          "totalCost": 0
+        },
+        {
+          "modelName": "gemini-3.8-flash-high",
+          "cost": 0.1276215,
+          "totalTokens": 0,
+          "inputTokens": 91447,
+          "outputTokens": 4185,
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-haiku-5-5",
+          "cost": 0.03145266499999999,
+          "totalTokens": 0,
+          "inputTokens": 34,
+          "outputTokens": 17612,
+          "cacheCreationTokens": 99321,
+          "cacheReadTokens": 1022814,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-sonnet-4-6",
+          "cost": 0.027072,
+          "totalTokens": 0,
+          "inputTokens": 8939,
+          "outputTokens": 17,
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "totalCost": 0
+        },
+        {
+          "modelName": "mimo-v2.6-flash-free",
+          "cost": 0.0027870696000000003,
+          "totalTokens": 0,
+          "inputTokens": 9227,
+          "outputTokens": 1454,
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 8832,
+          "totalCost": 0
+        },
+        {
+          "modelName": "glm-5.3-flash-free",
+          "cost": 0,
+          "totalTokens": 0,
+          "inputTokens": 18377,
+          "outputTokens": 1292,
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
+          "totalCost": 0
+        },
+        {
+          "modelName": "crouton-alpha-free",
+          "cost": 0,
+          "totalTokens": 0,
+          "inputTokens": 9463,
+          "outputTokens": 574,
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 0,
           "totalCost": 0
         }
       ]
