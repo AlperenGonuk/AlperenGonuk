@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "alperen-pc",
-  "updatedAt": "2026-11-08T20:00:47.241Z",
+  "updatedAt": "2026-11-09T20:28:39.164Z",
   "totals": {
-    "totalTokens": 4087827241,
-    "inputTokens": 48891658,
-    "outputTokens": 20611540,
-    "cacheCreationTokens": 90306837,
-    "cacheReadTokens": 3924578373,
-    "totalCost": 1877.4371525695997
+    "totalTokens": 4150796137,
+    "inputTokens": 49101351,
+    "outputTokens": 20924309,
+    "cacheCreationTokens": 92222735,
+    "cacheReadTokens": 3985044168,
+    "totalCost": 1902.5076531395998
   },
   "daily": [
     {
@@ -4176,12 +4176,12 @@
     },
     {
       "period": "2026-11-06",
-      "totalTokens": 218217387,
-      "inputTokens": 672354,
-      "outputTokens": 1156765,
-      "cacheCreationTokens": 5362590,
-      "cacheReadTokens": 210848951,
-      "totalCost": 91.76472153500009,
+      "totalTokens": 218438152,
+      "inputTokens": 672368,
+      "outputTokens": 1158337,
+      "cacheCreationTokens": 5454145,
+      "cacheReadTokens": 210976575,
+      "totalCost": 92.02211943500009,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5-5",
@@ -4195,12 +4195,12 @@
         },
         {
           "modelName": "claude-sonnet-5-5",
-          "cost": 5.209167899999998,
+          "cost": 5.466565799999998,
           "totalTokens": 0,
-          "inputTokens": 444,
-          "outputTokens": 172037,
-          "cacheCreationTokens": 947327,
-          "cacheReadTokens": 11195924,
+          "inputTokens": 458,
+          "outputTokens": 173609,
+          "cacheCreationTokens": 1038882,
+          "cacheReadTokens": 11323548,
           "totalCost": 0
         },
         {
@@ -4278,21 +4278,21 @@
     },
     {
       "period": "2026-11-08",
-      "totalTokens": 19117593,
-      "inputTokens": 228,
-      "outputTokens": 153691,
-      "cacheCreationTokens": 827268,
-      "cacheReadTokens": 18136406,
-      "totalCost": 12.454360899999998,
+      "totalTokens": 25114557,
+      "inputTokens": 285,
+      "outputTokens": 179257,
+      "cacheCreationTokens": 872626,
+      "cacheReadTokens": 24062389,
+      "totalCost": 14.513969499999995,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5-5",
-          "cost": 11.870825599999998,
+          "cost": 13.930434199999995,
           "totalTokens": 0,
-          "inputTokens": 208,
-          "outputTokens": 124201,
-          "cacheCreationTokens": 733181,
-          "cacheReadTokens": 17602628,
+          "inputTokens": 265,
+          "outputTokens": 149767,
+          "cacheCreationTokens": 778539,
+          "cacheReadTokens": 23528611,
           "totalCost": 0
         },
         {
@@ -4303,6 +4303,47 @@
           "outputTokens": 29490,
           "cacheCreationTokens": 94087,
           "cacheReadTokens": 533778,
+          "totalCost": 0
+        }
+      ]
+    },
+    {
+      "period": "2026-11-09",
+      "totalTokens": 56751167,
+      "inputTokens": 209622,
+      "outputTokens": 285631,
+      "cacheCreationTokens": 1778985,
+      "cacheReadTokens": 54412188,
+      "totalCost": 22.753494069999995,
+      "modelBreakdowns": [
+        {
+          "modelName": "claude-opus-5-5",
+          "cost": 22.437673999999994,
+          "totalTokens": 0,
+          "inputTokens": 650,
+          "outputTokens": 199251,
+          "cacheCreationTokens": 1116365,
+          "cacheReadTokens": 50621125,
+          "totalCost": 0
+        },
+        {
+          "modelName": "deepseek-v4.1-flash-free",
+          "cost": 0.16908999999999996,
+          "totalTokens": 0,
+          "inputTokens": 208918,
+          "outputTokens": 10261,
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 1207296,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-haiku-5-5",
+          "cost": 0.14673007,
+          "totalTokens": 0,
+          "inputTokens": 54,
+          "outputTokens": 76119,
+          "cacheCreationTokens": 662620,
+          "cacheReadTokens": 2583767,
           "totalCost": 0
         }
       ]
