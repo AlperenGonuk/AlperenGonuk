@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "alperen-pc",
-  "updatedAt": "2026-11-11T20:00:38.725Z",
+  "updatedAt": "2026-11-12T20:00:46.848Z",
   "totals": {
-    "totalTokens": 4285086759,
-    "inputTokens": 49297068,
-    "outputTokens": 21382444,
-    "cacheCreationTokens": 94827974,
-    "cacheReadTokens": 4116065681,
-    "totalCost": 1960.6029960595995
+    "totalTokens": 4340199592,
+    "inputTokens": 49297745,
+    "outputTokens": 21549993,
+    "cacheCreationTokens": 96030726,
+    "cacheReadTokens": 4169807536,
+    "totalCost": 1983.1268233595993
   },
   "daily": [
     {
@@ -4206,12 +4206,12 @@
     },
     {
       "period": "2026-11-06",
-      "totalTokens": 218744186,
-      "inputTokens": 672386,
-      "outputTokens": 1159782,
-      "cacheCreationTokens": 5558730,
-      "cacheReadTokens": 211176561,
-      "totalCost": 92.3180665350001,
+      "totalTokens": 218859699,
+      "inputTokens": 672392,
+      "outputTokens": 1161062,
+      "cacheCreationTokens": 5616559,
+      "cacheReadTokens": 211232959,
+      "totalCost": 92.48109083500009,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5-5",
@@ -4225,12 +4225,12 @@
         },
         {
           "modelName": "claude-sonnet-5-5",
-          "cost": 5.762512899999997,
+          "cost": 5.925537199999997,
           "totalTokens": 0,
-          "inputTokens": 476,
-          "outputTokens": 175054,
-          "cacheCreationTokens": 1143467,
-          "cacheReadTokens": 11523534,
+          "inputTokens": 482,
+          "outputTokens": 176334,
+          "cacheCreationTokens": 1201296,
+          "cacheReadTokens": 11579932,
           "totalCost": 0
         },
         {
@@ -4421,21 +4421,21 @@
     },
     {
       "period": "2026-11-11",
-      "totalTokens": 58814639,
-      "inputTokens": 662,
-      "outputTokens": 212835,
-      "cacheCreationTokens": 1095582,
-      "cacheReadTokens": 57505560,
-      "totalCost": 25.185330899999993,
+      "totalTokens": 59865409,
+      "inputTokens": 668,
+      "outputTokens": 214056,
+      "cacheCreationTokens": 1097033,
+      "cacheReadTokens": 58553652,
+      "totalCost": 25.43100129999999,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5-5",
-          "cost": 19.834654399999987,
+          "cost": 20.080324799999985,
           "totalTokens": 0,
-          "inputTokens": 578,
-          "outputTokens": 168581,
-          "cacheCreationTokens": 721568,
-          "cacheReadTokens": 53440892,
+          "inputTokens": 584,
+          "outputTokens": 169802,
+          "cacheCreationTokens": 723019,
+          "cacheReadTokens": 54488984,
           "totalCost": 0
         },
         {
@@ -4456,6 +4456,47 @@
           "outputTokens": 11633,
           "cacheCreationTokens": 208333,
           "cacheReadTokens": 556716,
+          "totalCost": 0
+        }
+      ]
+    },
+    {
+      "period": "2026-11-12",
+      "totalTokens": 53946550,
+      "inputTokens": 665,
+      "outputTokens": 165048,
+      "cacheCreationTokens": 1143472,
+      "cacheReadTokens": 52637365,
+      "totalCost": 22.115132599999992,
+      "modelBreakdowns": [
+        {
+          "modelName": "claude-opus-5-5",
+          "cost": 19.164245399999988,
+          "totalTokens": 0,
+          "inputTokens": 603,
+          "outputTokens": 142955,
+          "cacheCreationTokens": 766421,
+          "cacheReadTokens": 50856827,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-fable-5-2",
+          "cost": 2.1723098000000003,
+          "totalTokens": 0,
+          "inputTokens": 16,
+          "outputTokens": 9169,
+          "cacheCreationTokens": 172510,
+          "cacheReadTokens": 401609,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-sonnet-5-5",
+          "cost": 0.7785774,
+          "totalTokens": 0,
+          "inputTokens": 46,
+          "outputTokens": 12924,
+          "cacheCreationTokens": 204541,
+          "cacheReadTokens": 1378929,
           "totalCost": 0
         }
       ]
