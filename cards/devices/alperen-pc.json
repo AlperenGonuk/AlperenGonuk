@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "alperen-pc",
-  "updatedAt": "2026-11-17T20:00:41.473Z",
+  "updatedAt": "2026-11-18T20:01:01.941Z",
   "totals": {
-    "totalTokens": 4690970352,
-    "inputTokens": 51882469,
-    "outputTokens": 23557337,
-    "cacheCreationTokens": 107482744,
-    "cacheReadTokens": 4504501710,
-    "totalCost": 2180.1636050567995
+    "totalTokens": 4779187323,
+    "inputTokens": 52313787,
+    "outputTokens": 24066172,
+    "cacheCreationTokens": 110063961,
+    "cacheReadTokens": 4589197311,
+    "totalCost": 2223.2055226567995
   },
   "daily": [
     {
@@ -4775,6 +4775,47 @@
           "totalCost": 0
         }
       ]
+    },
+    {
+      "period": "2026-11-18",
+      "totalTokens": 88216971,
+      "inputTokens": 431318,
+      "outputTokens": 508835,
+      "cacheCreationTokens": 2581217,
+      "cacheReadTokens": 84695601,
+      "totalCost": 43.041917600000026,
+      "modelBreakdowns": [
+        {
+          "modelName": "claude-opus-5-5",
+          "cost": 39.42378600000002,
+          "totalTokens": 0,
+          "inputTokens": 1016,
+          "outputTokens": 451348,
+          "cacheCreationTokens": 2088620,
+          "cacheReadTokens": 75183950,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-sonnet-5-5",
+          "cost": 2.1261191999999998,
+          "totalTokens": 0,
+          "inputTokens": 140,
+          "outputTokens": 36946,
+          "cacheCreationTokens": 492597,
+          "cacheReadTokens": 5248867,
+          "totalCost": 0
+        },
+        {
+          "modelName": "gpt-6.1-sol",
+          "cost": 1.4920124000000001,
+          "totalTokens": 0,
+          "inputTokens": 430162,
+          "outputTokens": 20541,
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 4262784,
+          "totalCost": 0
+        }
+      ]
     }
   ],
   "toolDaily": {
@@ -4808,7 +4849,8 @@
       "2026-10-19": 0.036643999999999996,
       "2026-11-15": 2.7082372,
       "2026-11-16": 2.2910564,
-      "2026-11-17": 8.188705599999999
+      "2026-11-17": 8.188705599999999,
+      "2026-11-18": 1.4920124000000001
     },
     "Gemini": {},
     "Copilot": {}
